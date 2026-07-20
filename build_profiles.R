@@ -1,3 +1,6 @@
+# Builds hitter event-probability profiles from plate appearance outcome counts
+# This file handles sample-size shrinkage and creates the inputs used by the simulator
+
 library(dplyr)
 library(readr)
 
