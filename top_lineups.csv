@@ -1,0 +1,11 @@
+candidate_id,expected_runs,median_runs,sd_runs,quick_score,lineup
+2032,6.644,6,4.165569341143146,2.164295561016711,1. Noah Sullivan | 2. Alex Carter | 3. Luke Bennett | 4. Tyler Reed | 5. Mason Blake | 6. Evan Brooks | 7. Owen Parker | 8. Ryan Hayes | 9. Caleb Turner
+1377,6.59,6,4.281420456138884,2.1675275920674437,1. Noah Sullivan | 2. Alex Carter | 3. Evan Brooks | 4. Caleb Turner | 5. Tyler Reed | 6. Owen Parker | 7. Luke Bennett | 8. Ryan Hayes | 9. Mason Blake
+773,6.566,6,3.956887402470743,2.1617604392823635,1. Jack Miller | 2. Owen Parker | 3. Tyler Reed | 4. Evan Brooks | 5. Noah Sullivan | 6. Luke Bennett | 7. Mason Blake | 8. Caleb Turner | 9. Alex Carter
+3173,6.528,6,4.041024096872352,2.1638177430179377,1. Evan Brooks | 2. Noah Sullivan | 3. Alex Carter | 4. Jack Miller | 5. Tyler Reed | 6. Owen Parker | 7. Mason Blake | 8. Luke Bennett | 9. Caleb Turner
+1858,6.512,6,4.006239622367046,2.168739381213911,1. Evan Brooks | 2. Noah Sullivan | 3. Tyler Reed | 4. Luke Bennett | 5. Ryan Hayes | 6. Alex Carter | 7. Mason Blake | 8. Caleb Turner | 9. Owen Parker
+2575,6.488,6,4.194883800559963,2.1640672111765227,1. Caleb Turner | 2. Luke Bennett | 3. Evan Brooks | 4. Noah Sullivan | 5. Tyler Reed | 6. Owen Parker | 7. Alex Carter | 8. Mason Blake | 9. Ryan Hayes
+4187,6.408,6,4.429534688329037,2.163975589969687,1. Owen Parker | 2. Noah Sullivan | 3. Evan Brooks | 4. Jack Miller | 5. Tyler Reed | 6. Alex Carter | 7. Caleb Turner | 8. Mason Blake | 9. Luke Bennett
+4305,6.4,6,3.8405076484751324,2.166969782410196,1. Evan Brooks | 2. Alex Carter | 3. Noah Sullivan | 4. Tyler Reed | 5. Caleb Turner | 6. Mason Blake | 7. Owen Parker | 8. Jack Miller | 9. Luke Bennett
+1099,6.38,6,4.095013831057608,2.1612519901521057,1. Tyler Reed | 2. Jack Miller | 3. Noah Sullivan | 4. Owen Parker | 5. Alex Carter | 6. Ryan Hayes | 7. Evan Brooks | 8. Mason Blake | 9. Caleb Turner
+260,6.372,6,3.8349745840253284,2.165576060433902,1. Noah Sullivan | 2. Ryan Hayes | 3. Tyler Reed | 4. Owen Parker | 5. Luke Bennett | 6. Evan Brooks | 7. Mason Blake | 8. Alex Carter | 9. Caleb Turner
