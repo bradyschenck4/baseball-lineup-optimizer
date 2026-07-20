@@ -1,3 +1,6 @@
+# Generates candidate batting orders, pre-screens them with a quick score,
+# then runs full Monte Carlo simulations on the best candidates
+
 library(dplyr)
 library(purrr)
 library(tibble)
