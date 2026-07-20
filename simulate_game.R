@@ -1,3 +1,6 @@
+# Simulates 9 inning games from hitter outcome probabilities
+# The base-running logic is intentionally simple so the model stays explainable
+
 library(dplyr)
 library(tibble)
 
