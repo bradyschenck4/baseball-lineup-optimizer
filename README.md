@@ -35,7 +35,10 @@ baseball-lineup-optimizer/
 ├── analysis/
 │   └── run_optimizer.R
 └── outputs/
-
+    ├── best_lineup.csv
+    ├── top_lineups.csv
+    └── custom_lineup_comparison.csv
+    
 **Data**
 
 The sample dataset contains synthetic hitter outcome counts. Each row represents one hitter and includes plate appearance totals for:
