@@ -1,3 +1,6 @@
+# Helper functions for comparing custom lineups and summarizing common patterns
+# across the model's highest-ranked batting orders
+
 library(dplyr)
 library(tibble)
 library(tidyr)
