@@ -25,20 +25,21 @@ The optimizer generates candidate batting orders, pre-screens them with a quick 
 **Repository Structure:**
 
 baseball-lineup-optimizer/
-├── README.md
-├── data/
-│   └── sample_hitters.csv
-├── R/
-│   ├── build_profiles.R
-│   ├── simulate_game.R
-│   ├── optimize_lineup.R
-│   └── reporting.R
-├── analysis/
-│   └── run_optimizer.R
-└── outputs/
-    ├── best_lineup.csv
-    ├── top_lineups.csv
-    └── custom_lineup_comparison.csv
+
+- README.md
+- data/
+  -  sample_hitters.csv
+- R/
+   - build_profiles.R
+   - simulate_game.R
+   - optimize_lineup.R
+   - reporting.R
+- analysis/
+   - run_optimizer.R
+- outputs/
+   - best_lineup.csv
+   - top_lineups.csv
+   - custom_lineup_comparison.csv
     
 **Data**
 
