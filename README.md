@@ -23,7 +23,7 @@ The optimizer generates candidate batting orders, pre-screens them with a quick 
 - Summarizes common players and batting-order spots across top lineups
 
 **Repository Structure:**
-```text
+
 baseball-lineup-optimizer/
 ├── README.md
 ├── data/
@@ -39,7 +39,6 @@ baseball-lineup-optimizer/
     ├── best_lineup.csv
     ├── top_lineups.csv
     └── custom_lineup_comparison.csv
-```
     
 **Data**
 
