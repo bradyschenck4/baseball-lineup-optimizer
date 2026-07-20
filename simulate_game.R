@@ -26,6 +26,10 @@ plate_appearance <- function(hitter) {
   sample(events, size = 1, prob = probs / sum(probs))
 }
 
+# Runner advancement is simplified:
+# Singles move runners one base, doubles move them two bases, etc
+# This keeps the model transparent, but it does not capture real advancement variation
+
 advance_runners <- function(event, base_state, outs) {
   b1 <- base_state[1]
   b2 <- base_state[2]
