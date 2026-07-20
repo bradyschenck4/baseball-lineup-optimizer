@@ -146,5 +146,5 @@ Future versions could improve the model by adding handedness adjustments, more d
 
 **Project Motivation**
 
-This project was created to explore how simulation and statistical modeling can support baseball decision making. Often times, coaches build the batting order by inherently biasing certain qualities for each spot in the order. This model allows the lineup to be considered holistically, rather than building the lineup one spot at a time. 
+This project was created to explore how simulation and statistical modeling can support baseball decision making. Coaches often build batting orders by prioritizing certain player qualities for specific spots in the lineup. This model allows the lineup to be considered holistically, rather than building the lineup one spot at a time. 
 
