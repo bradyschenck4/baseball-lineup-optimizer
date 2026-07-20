@@ -60,6 +60,10 @@ build_hitter_profiles <- function(hitter_counts, prior_pa = 25) {
   team_rates <- team_totals %>%
     mutate(across(all_of(event_columns), ~ .x / pa))
 
+# Raw player rates can be noisy, especially for hitters with limited PA
+# Shrinking each player's event rates toward the team average keeps small samples
+# from driving the lineup recommendation too aggressively
+  
   profiles <- hitter_counts %>%
     mutate(
       p_bb = shrink_event_rate(bb, pa, team_rates$bb, prior_pa),
