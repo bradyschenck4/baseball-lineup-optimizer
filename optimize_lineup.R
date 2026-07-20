@@ -18,6 +18,9 @@ quick_lineup_score <- function(lineup) {
   )
 }
 
+# Simulating every possible lineup can be slow when the player pool is larger than nine
+# This quick score keeps only the most promising candidates for full simulation
+
 make_random_orders <- function(players, lineup_size, n_candidates, seed = 123) {
   set.seed(seed)
 
