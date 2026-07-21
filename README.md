@@ -39,7 +39,10 @@ baseball-lineup-optimizer/
 └── outputs/
     ├── best_lineup.csv
     ├── top_lineups.csv
-    └── custom_lineup_comparison.csv
+    ├── custom_lineup_comparison.csv
+    ├── lineup_side_by_side.csv
+    ├── top_lineup_player_summary.csv
+    └── top_lineup_slot_summary.csv
 ```
     
 **Data**
